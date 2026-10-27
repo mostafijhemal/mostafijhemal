@@ -91,9 +91,9 @@ A rental management application concept for organizing building, floor, flat, an
 ## 🌐 Connect With Me
 
 - **GitHub:** [@mostafijhemal](https://github.com/mostafijhemal)
-- **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/in/mostafij-hemal)
-- **Email:** [Add your public contact email](mailto:mostafij.hemal@gmail.com)
-- **Portfolio / Website:** [Add your website URL](https://example.com)
+- **LinkedIn:** [@mostafij-hemal](https://www.linkedin.com/in/mostafij-hemal)
+- **Email:** [Mostafijur Rahman](mailto:mostafij.hemal@gmail.com)
+- **Portfolio / Website:** [Mostafij](https://mostafijhemal.github.io/portfolio/)
 - **Other social profile:** [Add a profile link](https://example.com)
 
 *Replace the placeholder links above with your real public profile URLs before publishing.*
