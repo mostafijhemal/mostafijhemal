@@ -205,22 +205,35 @@ Calculate semester-wise GPA and overall CGPA with a simple web interface.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 <p align="right">
-<a href="https://github.com/mostafijhemal/CGPA_Calculator">🔗 View Project ↗</a>
+	<a href="https://github.com/mostafijhemal/CGPA_Calculator">
+  		<img src="https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+	</a>
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
-<h3>🍪 Website Cookies Analyzer</h3>
+<h3>🍪 Advanced Cookies Analyzer</h3>
 
-An M.Sc. thesis project for collecting, analyzing, and visualizing website cookies.
+A comprehensive web scraping and analysis tool that extracts, stores, and visualizes website cookies using Selenium, FastAPI, and a Streamlit dashboard.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 <p align="right">
-<a href="https://github.com/mostafijhemal/advanced-cookies-analyzer">🔗 View Project ↗</a>
+	<a href="https://github.com/mostafijhemal/advanced-cookies-analyzer">
+  		<img src="https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+	</a>
 </p>
 
 </td>
@@ -236,34 +249,57 @@ A platform concept for managing blood donors, blood requests, and organizations.
 <img src="https://img.shields.io/badge/Database-2563EB?style=flat-square" />
 
 <p align="right">
-<a href="https://github.com/mostafijhemal">🔗 View Project ↗</a>
+	<a href="https://github.com/mostafijhemal/">
+  		<img src="https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+	</a>
 </p>
-
 </td>
+
 <td width="50%" valign="top">
 
 <h3>🏢 BashaRent Manager</h3>
 
-Manage buildings, floors, flats, and rental information in one place.
+A building and rental management application designed to help manage buildings, floors, flats, and rental information.
 
-<img src="https://img.shields.io/badge/Web_App-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Database-0891B2?style=flat-square" />
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Android-App-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_DOM-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React DOM" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
 <p align="right">
-<a href="https://github.com/mostafijhemal/basharent-manager">🔗 View Project ↗</a>
+	<a href="https://github.com/mostafijhemal/basharent-manager">
+  		<img src="https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+	</a>
 </p>
 
 </td>
+
 </tr>
 <tr>
 <td width="50%" valign="top">
+
 <h3>📺 Sports IPTV Backend</h3>
-		
-A backend project for a sports IPTV application.
-		
-**Tech Stack:** Backend • API • IPTV
-		
-[![View Project](https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github)](https://github.com/mostafijhemal/sports-iptv-backend)
+
+A sports IPTV backend built with Python and FastAPI, featuring channel management, database integration, and stream proxy functionality.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+<p align="right">
+	<a href="https://github.com/mostafijhemal/sports-iptv-backend">
+  		<img src="https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+	</a>
+</p>
+
 </td>
 </tr>
 </table>
