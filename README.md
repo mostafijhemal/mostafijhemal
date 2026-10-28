@@ -15,7 +15,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-mostafijhemal-181717?style=for-the-badge&logo=github)](https://github.com/mostafijhemal)
 [![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0A9396?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Dhaka,+Bangladesh)
 
-### 📫 Connect with Me
+### 🔗 Quick Links to connect me
 <div align="center">
   <div>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="45"/>
@@ -52,20 +52,19 @@ I'm **Mostafijur Rahman**, a Software Engineer with an academic background in **
 
 I work with technologies across Python development, web development, and database systems. I'm continuously improving my skills through hands-on projects, experimentation, and learning new tools. I value readable code, consistent learning, and building software that is useful to real people.
 
-- 🔭 **Working on:** Personal and academic software projects
-- 🌱 **Learning and exploring:** currently exploring and diving deep into **Agentic AI** , Next-gen AI-driven automation, Web development, databases, software design, and New technologies.
-- 🧠 **Interested in:** Practical problem-solving, application development, and technology <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-- 📍 **Based in:** Dhaka, Bangladesh
-- 🎓 **Education:** M.Sc. in Computer Science and Engineering
-- ⚡ **Motto:** Build • Learn • Share • Make an Impact
-- 📺 When I'm not coding, I create content on my YouTube channel [**@MostafijHimel**](https://youtube.com/@MostafijHimel).
-- 💬 Ask me about **Python, Django, PHP, Laravel, and Database Design**.
-- ⚡ **Motto:** Build • Learn • Share • Make an Impact
+- 🔭 Working on: Personal and academic software projects
+- 🌱 Currently exploring: Agentic AI, AI-driven automation, web development, databases, and software design
+- 🧠 Interested in: Practical problem-solving, application development, and system design <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 📍 Based in: Dhaka, Bangladesh
+- 🎓 Education: M.Sc. in Computer Science and Engineering
+- 📺 Content creation: [**@MostafijHimel**](https://youtube.com/@MostafijHimel) on YouTube.
+- 💬 Ask me about: Python, Django, PHP, Laravel, and Database Design.
+- ⚡ Motto: Build • Learn • Share • Make an Impact
 ---
 
 ## 🛠️ Tech Stack
 
-💻 Programming Languages
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-0077A8?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -73,17 +72,17 @@ I work with technologies across Python development, web development, and databas
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-🎨 Frontend Development
+### 🎨 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-⚙️ Backend & Frameworks
+### ⚙️ Backend & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -93,7 +92,7 @@ I work with technologies across Python development, web development, and databas
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-🗄️ Databases & Tools
+### 🗄️ Databases & Tools
 
 <p>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -105,7 +104,7 @@ I work with technologies across Python development, web development, and databas
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-☁️ Cloud & Hosting
+### ☁️ Cloud & Hosting
 
 <p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -119,7 +118,7 @@ I work with technologies across Python development, web development, and databas
   <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-🔄 Version Control, CI/CD & DevOps
+### 🔄 Version Control, CI/CD & DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -130,7 +129,7 @@ I work with technologies across Python development, web development, and databas
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
-🧪 Testing
+### 🧪 Testing
 
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
@@ -141,7 +140,7 @@ I work with technologies across Python development, web development, and databas
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
 </p>
 
-💻 IDEs & Development Tools
+### 💻 IDEs & Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -153,7 +152,7 @@ I work with technologies across Python development, web development, and databas
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 </p>
 
-🖥️ Operating Systems & Shell
+### 🖥️ Operating Systems & Shell
 
 <p>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -164,18 +163,18 @@ I work with technologies across Python development, web development, and databas
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
-📊 Data Science & Machine Learning
+### 📊 Data Science & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-🔧 Other Technologies
+### 🔧 Other Technologies
 
 <p>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -206,7 +205,7 @@ Calculate semester-wise GPA and overall CGPA with a simple web interface.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 <p align="right">
-<a href="https://github.com/mostafijhemal">🔗 View Project ↗</a>
+<a href="https://github.com/mostafijhemal/CGPA_Calculator">🔗 View Project ↗</a>
 </p>
 
 </td>
@@ -221,7 +220,7 @@ An M.Sc. thesis project for collecting, analyzing, and visualizing website cooki
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 <p align="right">
-<a href="https://github.com/mostafijhemal">🔗 View Project ↗</a>
+<a href="https://github.com/mostafijhemal/advanced-cookies-analyzer">🔗 View Project ↗</a>
 </p>
 
 </td>
@@ -251,9 +250,20 @@ Manage buildings, floors, flats, and rental information in one place.
 <img src="https://img.shields.io/badge/Database-0891B2?style=flat-square" />
 
 <p align="right">
-<a href="https://github.com/mostafijhemal">🔗 View Project ↗</a>
+<a href="https://github.com/mostafijhemal/basharent-manager">🔗 View Project ↗</a>
 </p>
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+### 📺 Sports IPTV Backend
+		
+A backend project for a sports IPTV application.
+		
+**Tech Stack:** Backend • API • IPTV
+		
+[![View Project](https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github)](https://github.com/mostafijhemal/sports-iptv-backend)
 </td>
 </tr>
 </table>
@@ -285,6 +295,6 @@ Manage buildings, floors, flats, and rental information in one place.
 
 ### `> Keep Learning. Keep Building. Get Better.`
 
-**Thanks</b> for visiting my profile!** ⭐
+**Thanks for visiting my profile!** ⭐
 
 </div>
