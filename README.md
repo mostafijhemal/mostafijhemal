@@ -1,16 +1,46 @@
 <div align="center">
 
-<!-- Add the generated banner image to the repository at assets/github-banner.png -->
-<img src="assets/github-banner.png" alt="Mostafijur Rahman - Software Engineer" width="100%" />
-
 # Hi, I'm Mostafijur Rahman 👋
 
-### Software Engineer | CSE Postgraduate | Technology Enthusiast
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Backend+Developer;Web+Application+Developer;Python+%26+AI+Automation+Enthusiast;DS%20|%20AI%20|%20ML%20Enthusiast;Exploring+Agentic+AI;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+</div>
+
+### Software Engineer | CSE Postgraduate | Technology Enthusiast | AI Enthusiast
 
 *Building practical applications, solving real-world problems, and learning something new every day.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-mostafijhemal-181717?style=for-the-badge&logo=github)](https://github.com/mostafijhemal)
 [![Location](https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0A9396?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Dhaka,+Bangladesh)
+
+### 📫 Connect with Me
+<div align="center">
+  <div>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="45"/>
+  </div>
+  <div>
+    <a href="https://www.linkedin.com/in/mostafij-hemal">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://t.me/mostafijhemal">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="mailto:mostafij.hemal@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://mostafijhemal.github.io/portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Google-Earth&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://youtube.com/@MostafijHimel">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+  </div>
+</div>
+
+<!-- Add the generated banner image to the repository at assets/github-banner.png -->
+<img src="assets/github-banner.png" alt="Mostafijur Rahman - Software Engineer" valign="middle" width="100%" />
 
 </div>
 
@@ -23,36 +53,139 @@ I'm **Mostafijur Rahman**, a Software Engineer with an academic background in **
 I work with technologies across Python development, web development, and database systems. I'm continuously improving my skills through hands-on projects, experimentation, and learning new tools. I value readable code, consistent learning, and building software that is useful to real people.
 
 - 🔭 **Working on:** Personal and academic software projects
-- 🌱 **Learning and exploring:** Web development, databases, software design, and new technologies
-- 🧠 **Interested in:** Practical problem-solving, application development, and technology
+- 🌱 **Learning and exploring:** currently exploring and diving deep into **Agentic AI** , Next-gen AI-driven automation, Web development, databases, software design, and New technologies.
+- 🧠 **Interested in:** Practical problem-solving, application development, and technology <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 - 📍 **Based in:** Dhaka, Bangladesh
 - 🎓 **Education:** M.Sc. in Computer Science and Engineering
 - ⚡ **Motto:** Build • Learn • Share • Make an Impact
-
+- 📺 When I'm not coding, I create content on my YouTube channel [**@MostafijHimel**](https://youtube.com/@MostafijHimel).
+- 💬 Ask me about **Python, Django, PHP, Laravel, and Database Design**.
+- ⚡ **Motto:** Build • Learn • Share • Make an Impact
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-0077A8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-### Web & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-### Databases & Tools
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-C74634?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+⚙️ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+🗄️ Databases & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-24799A?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_APEX-E34F26?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+☁️ Cloud & Hosting
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+🔄 Version Control, CI/CD & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
+
+🧪 Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+</p>
+
+💻 IDEs & Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+</p>
+
+🖥️ Operating Systems & Shell
+
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
+
+📊 Data Science & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+🔧 Other Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Security-2E8B57?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
+
+<p><em>These badges represent technologies I use, have explored, or am learning. My experience level varies by technology.</em></p>
 
 > **Skill level:** Beginner to Intermediate. I keep learning by building, testing, and improving projects.
 
@@ -60,29 +193,70 @@ I work with technologies across Python development, web development, and databas
 
 ## 🚀 Featured Projects
 
-### 1. Web-Based CGPA Calculator
-A browser-based tool for calculating semester-wise and overall CGPA from course credits and grades.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Focus:** HTML, CSS, JavaScript  
-**Repository:** [Add repository link](https://github.com/mostafijhemal)
+<h3>🎓 Web-Based CGPA Calculator</h3>
 
-### 2. Website Cookies Analyzer — M.Sc. Thesis
-A Python-based application concept for collecting and analyzing website cookies, with a focus on cookie properties, third-party cookies, and data visualization.
+Calculate semester-wise GPA and overall CGPA with a simple web interface.
 
-**Focus:** Python, Streamlit, SQLite, data analysis  
-**Repository:** [Add repository link](https://github.com/mostafijhemal)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-### 3. Blood Bank Management App
-A planned platform concept to help donors, social organizations, and blood banks manage donor information and blood requests.
+<p align="right">
+<a href="https://github.com/mostafijhemal">🔗 View Project ↗</a>
+</p>
 
-**Focus:** Application design, database design, workflow planning  
-**Repository:** [Add repository link](https://github.com/mostafijhemal)
+</td>
+<td width="50%" valign="top">
 
-### 4. BashaRent Manager
-A rental management application concept for organizing building, floor, flat, and rental information.
+<h3>🍪 Website Cookies Analyzer</h3>
 
-**Focus:** Web application development, data management, UI design  
-**Repository:** [Add repository link](https://github.com/mostafijhemal)
+An M.Sc. thesis project for collecting, analyzing, and visualizing website cookies.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+
+<p align="right">
+<a href="https://github.com/mostafijhemal">🔗 View Project ↗</a>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🩸 Blood Bank Management App</h3>
+
+A platform concept for managing blood donors, blood requests, and organizations.
+
+<img src="https://img.shields.io/badge/Blood_Donation-E11D48?style=flat-square" />
+<img src="https://img.shields.io/badge/Database-2563EB?style=flat-square" />
+
+<p align="right">
+<a href="https://github.com/mostafijhemal">🔗 View Project ↗</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏢 BashaRent Manager</h3>
+
+Manage buildings, floors, flats, and rental information in one place.
+
+<img src="https://img.shields.io/badge/Web_App-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Database-0891B2?style=flat-square" />
+
+<p align="right">
+<a href="https://github.com/mostafijhemal">🔗 View Project ↗</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 > More projects will be added as I publish and update repositories on GitHub.
 
@@ -90,20 +264,27 @@ A rental management application concept for organizing building, floor, flat, an
 
 ## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://mostafijhemal.github.io/portfolio/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:mostafij.hemal@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/mostafijhemal"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://t.me/mostafijhemal"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
+	<a href="https://linkedin.com/in/mostafij-hemal"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/mostafij.hemal"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://instagram.com/mostafij.hemal"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://youtube.com/@MostafijHimel"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+</p>
+<!--
 - **GitHub:** [@mostafijhemal](https://github.com/mostafijhemal)
 - **LinkedIn:** [@mostafij-hemal](https://www.linkedin.com/in/mostafij-hemal)
 - **Email:** [Mostafijur Rahman](mailto:mostafij.hemal@gmail.com)
 - **Portfolio / Website:** [Mostafij](https://mostafijhemal.github.io/portfolio/)
 - **Other social profile:** [Add a profile link](https://example.com)
-
-*Replace the placeholder links above with your real public profile URLs before publishing.*
-
----
-
+-->
 <div align="center">
 
 ### `> Keep Learning. Keep Building. Get Better.`
 
-**Thanks for visiting my profile!** ⭐
+**Thanks</b> for visiting my profile!** ⭐
 
 </div>
