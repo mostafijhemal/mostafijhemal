@@ -195,20 +195,24 @@ I work with technologies across Python development, web development, and databas
 <table>
 <tr>
 <td width="50%" valign="top">
-
 <h3>🎓 Web-Based CGPA Calculator</h3>
 
-Calculate semester-wise GPA and overall CGPA with a simple web interface.
+A user-friendly web application designed to accurately calculate and track academic GPA and CGPA based on course grades and credits.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-<p align="right">
-	<a href="https://github.com/mostafijhemal/CGPA_Calculator">
-  		<img src="https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-	</a>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
+<br><br>
+<div>
+    <a href="https://mostafijhemal.github.io/CGPA_Calculator/">
+      <img align="left" src="https://img.shields.io/badge/View_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Website" />
+    </a>
+    <a href="https://github.com/mostafijhemal/CGPA_Calculator">
+      <img align="right" src="https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+    </a>
+</div>
 
 </td>
 
@@ -229,7 +233,7 @@ A comprehensive web scraping and analysis tool that extracts, stores, and visual
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
+<br>
 <p align="right">
 	<a href="https://github.com/mostafijhemal/advanced-cookies-analyzer">
   		<img src="https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
@@ -247,7 +251,7 @@ A platform concept for managing blood donors, blood requests, and organizations.
 
 <img src="https://img.shields.io/badge/Blood_Donation-E11D48?style=flat-square" />
 <img src="https://img.shields.io/badge/Database-2563EB?style=flat-square" />
-
+<br><br><br><br><br>
 <p align="right">
 	<a href="https://github.com/mostafijhemal/">
   		<img src="https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
@@ -293,12 +297,15 @@ A sports IPTV backend built with Python and FastAPI, featuring channel managemen
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
-
-<p align="right">
-	<a href="https://github.com/mostafijhemal/sports-iptv-backend">
-  		<img src="https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
-	</a>
-</p>
+<br>
+<div>
+    <a href="https://mostafijhemal.github.io/sports-iptv-backend/">
+      <img align="left" src="https://img.shields.io/badge/View_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Website" />
+    </a>
+    <a href="https://github.com/mostafijhemal/sports-iptv-backend">
+      <img align="right" src="https://img.shields.io/badge/View-Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+    </a>
+</div>
 
 </td>
 </tr>
