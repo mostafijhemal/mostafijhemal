@@ -52,14 +52,17 @@ I'm **Mostafijur Rahman**, a Software Engineer with an academic background in **
 
 I work with technologies across Python development, web development, and database systems. I'm continuously improving my skills through hands-on projects, experimentation, and learning new tools. I value readable code, consistent learning, and building software that is useful to real people.
 
-- 🔭 Working on: Personal and academic software projects
-- 🌱 Currently exploring: Agentic AI, AI-driven automation, web development, databases, and software design
-- 🧠 Interested in: Practical problem-solving, application development, and system design <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-- 📍 Based in: Dhaka, Bangladesh
-- 🎓 Education: M.Sc. in Computer Science and Engineering
-- 📺 Content creation: [**@MostafijHimel**](https://youtube.com/@MostafijHimel) on YouTube.
-- 💬 Ask me about: Python, Django, PHP, Laravel, and Database Design.
-- ⚡ Motto: Build • Learn • Share • Make an Impact
+<img align="right" width="200" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif" alt="Coding Geek"/>
+
+- 🔭 **Working on:** Personal and academic software projects
+- 🌱 **Currently exploring:** Agentic AI, AI-driven automation, web development, databases, and software design
+- 🧠 **Interested in:** Practical problem-solving, application development, and system design
+- 📍 **Based in:** Dhaka, Bangladesh
+- 🎓 **Education:** M.Sc. in Computer Science and Engineering
+- 📺 **Content creation:** [**@MostafijHimel**](https://youtube.com/@MostafijHimel) on YouTube.
+- 💬 **Ask me about:** Python, Django, PHP, Laravel, and Database Design.
+- ⚡ **Motto:** Build • Learn • Share • Make an Impact
+
 ---
 
 ## 🛠️ Tech Stack
